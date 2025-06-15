@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bank2App</string>
+    <string name="welcome_message">Bienvenue dans votre banque digitale</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Se connecter</string>
+    <string name="client_code">Code client</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="activate_account">Activer le compte</string>
+    <string name="balance">Solde</string>
+    <string name="account_number">Numéro de compte</string>
+    <string name="loading">Chargement...</string>
+    <string name="error_login">Erreur de connexion</string>
+    <string name="error_activation">Erreur d\'activation</string>
+    <string name="error_network">Erreur réseau</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="welcome">Bienvenue, %s</string>
+
+</resources>

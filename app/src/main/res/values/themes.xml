@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Bank2App" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Couleurs -->
+        <item name="colorPrimary">@color/bank_primary</item>
+        <item name="colorPrimaryVariant">@color/bank_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/bank_accent</item>
+        <item name="colorSecondaryVariant">@color/bank_accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <!-- Configuration ActionBar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
